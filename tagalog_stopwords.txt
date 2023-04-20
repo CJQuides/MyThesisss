@@ -196,3 +196,5 @@ mayroon
 wala
 iba't
 ibang
+at
+mas
